@@ -33,7 +33,7 @@ I enjoy writing articles, making videos and giving talks about different subject
 
 ### Articles
 
-[Running MPI applications as a unikernel](http://torokerneleng.blogspot.com/2023/01/running-mpi-applications-as-unikernel.html)
+[Running MPI applications as an unikernel](http://torokerneleng.blogspot.com/2023/01/running-mpi-applications-as-unikernel.html)
 
 [Profiling and Optimizing Toro unikernel with Qprofiler](http://torokerneleng.blogspot.com/2022/09/profiling-and-optimizing-toro-unikernel.html)
 
