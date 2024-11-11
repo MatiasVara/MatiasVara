@@ -15,6 +15,14 @@ I am Matias from Argentina and I live in France since 2011. I enjoy programming 
 I enjoy writing articles, making videos and giving talks about different subjects. Those activities help me to understand better why and what I am doing something. This is a non-exhastuive list of articles and talks:
 
 ### Talks
+[Verifying the Conformance of a VirtIO Driver to the VirtIO Specification](https://www.youtube.com/watch?v=w7BAR228344)
+
+[Building VirtIO sound device in rust-vmm project](https://www.youtube.com/watch?v=wpGQsHDg-vI)
+
+[Making VirtIO sing - implementing virtio-sound in rust-vmm project](https://archive.fosdem.org/2024/schedule/event/fosdem-2024-1910-making-virtio-sing-implementing-virtio-sound-in-rust-vmm-project/)
+
+[Is Toro unikernel faster for MPI?](https://archive.fosdem.org/2024/schedule/event/fosdem-2024-1960-is-toro-unikernel-faster-for-mpi-/)
+
 [Running MPI applications on Toro unikernel](https://fosdem.org/2023/schedule/event/toro_unikernel_mpi/)
 
 [Improving the Querying of VCPU Statistics in Xen](https://youtu.be/8uuFAjYDK9U)
