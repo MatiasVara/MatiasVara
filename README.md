@@ -14,7 +14,11 @@ I am Matias from Argentina and I live in France since 2011. I enjoy programming 
 
 I enjoy writing articles, making videos and giving talks about different subjects. Those activities help me to understand better why and what I am doing something. This is a non-exhastuive list of articles and talks:
 
-### Talks
+### Presentations
+[Libkrun Meets ARM Confidential Computing Architecture — No Hardware Required (for Now ;))](https://youtu.be/5xiKZ3UTpDo?si=OgUik5LpIG5fRPRy)
+
+[Hunting Virtio Specification Violations](https://video.fosdem.org/2025/ub4132/fosdem-2025-5930-hunting-virtio-specification-violations.mp4)
+
 [Découverte des serveurs MCP : discuter avec ses outils pour automatiser les choses](https://youtu.be/5tnq5vraVUU?si=yEX-J5Vg0bYKQxt2)
 
 [Verifying the Conformance of a VirtIO Driver to the VirtIO Specification](https://www.youtube.com/watch?v=w7BAR228344)
